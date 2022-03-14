@@ -1,8 +1,11 @@
 # Todo List
 
+Todo list feita em Vue. É uma ferramenta de gerenciamento de tarefas, onde você pode adicionar tarefas a serem feitas, marcar quando forem concluídas ou excluir. 
 Para visualizar o projeto, [clique aqui](https://todolist-seven-gamma.vercel.app/).
 
-Esse projeto foi realizado como desafio técnico da empresa Exact Sales. 
+Desafio técnico da empresa Exact Sales. 
+
+![image](https://user-images.githubusercontent.com/89950971/158104765-82be18a8-0916-4053-a40b-ae8490b2a590.png)
 
 
 ## Project setup

@@ -5,7 +5,7 @@ Para visualizar o projeto, [clique aqui](https://todolist-seven-gamma.vercel.app
 
 Desafio técnico da empresa Exact Sales. 
 
-![image](https://user-images.githubusercontent.com/89950971/158104765-82be18a8-0916-4053-a40b-ae8490b2a590.png)
+![image](https://user-images.githubusercontent.com/89950971/158104878-3662a8db-1ca3-49fa-9191-09039d44fe37.png)
 
 
 ## Project setup

@@ -1,4 +1,9 @@
-# todolist
+# Todo List
+
+Para visualizar o projeto, [clique aqui](https://todolist-seven-gamma.vercel.app/).
+
+Esse projeto foi realizado como desafio técnico da empresa Exact Sales. 
+
 
 ## Project setup
 ```
